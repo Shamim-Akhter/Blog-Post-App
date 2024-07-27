@@ -1,0 +1,244 @@
+[
+    {
+        "id":1,
+        "title":"Travelling to New York",
+        "excerpt":"It is one of the luxurious city of United States of America... ",
+        "content":"New york is very good city to travel. It is very clean and green. It is one of the luxurious city of United States of America. You can get so many outlet of fast food on street of newyork",
+        "date": "2024-07-20",
+        "images": ["/newyork.jpg"]
+    },
+    {
+        "id":2,
+        "title":"Travelling to Goa",
+        "excerpt":"It is located on the west side of India...",
+        "content":"Goa is very good place to travel. It is very clean and green. It is located on the west side of India. There are so many beautiful beaches to explore. Mostly its night light is much needed thing to explore.",
+        "date": "2024-07-21",
+        "images": ["/goa.jpg"]
+    },
+    {
+        "id":3,
+        "title":"Travelling to Delhi",
+        "excerpt":"Delhi is known for its architectural building and bussiness...",
+        "content":"Delhi is very good state to travel. It is very clean and green and it is also capital of India. Delhi is known for its architectural building and bussiness. It is home to many mughal architecture building.",
+        "date": "2024-07-22",
+        "images": ["/delhi.jpg"]
+    },
+    {
+        "id":4,
+        "title":"Travelling to Bangalore",
+        "excerpt":"It is the electronic city of India...",
+        "content":"Bangalore is very good city to travel. It is very clean and green. It is the electronic city of India.Its weather is good. You can get so many outlet of fast food on street of bangalore.",
+        "date": "2024-07-23",
+        "images": ["/bangalore.jpg"]
+    },
+    {
+        "id":5,
+        "title":"Travelling to Kerala",
+        "excerpt":"Kerala is located on south side of India...",
+        "content":"Kerala is a good place to travel specially during rainy season. Kerala is located on south side of India. It is very clean and green. You should visit once in your life.",
+        "date": "2024-07-24",
+        "images": ["/kerala.jpg"]
+    },
+    {
+        "id":6,
+        "title":"Travelling to New York",
+        "excerpt":"It is one of the luxurious city of United States of America... ",
+        "content":"New york is very good city to travel. It is very clean and green. It is one of the luxurious city of United States of America. You can get so many outlet of fast food on street of newyork",
+        "date": "2024-07-20",
+        "images": ["/newyork.jpg"]
+    },
+    {
+        "id":7,
+        "title":"Travelling to Goa",
+        "excerpt":"It is located on the west side of India...",
+        "content":"Goa is very good place to travel. It is very clean and green. It is located on the west side of India. There are so many beautiful beaches to explore. Mostly its night light is much needed thing to explore.",
+        "date": "2024-07-21",
+        "images": ["/goa.jpg"]
+    },
+    {
+        "id":8,
+        "title":"Travelling to Delhi",
+        "excerpt":"Delhi is known for its architectural building and bussiness...",
+        "content":"Delhi is very good state to travel. It is very clean and green and it is also capital of India. Delhi is known for its architectural building and bussiness. It is home to many mughal architecture building.",
+        "date": "2024-07-22",
+        "images": ["/delhi.jpg"]
+    },
+    {
+        "id":9,
+        "title":"Travelling to Bangalore",
+        "excerpt":"It is the electronic city of India...",
+        "content":"Bangalore is very good city to travel. It is very clean and green. It is the electronic city of India.Its weather is good. You can get so many outlet of fast food on street of bangalore.",
+        "date": "2024-07-23",
+        "images": ["/bangalore.jpg"]
+    },
+    {
+        "id":10,
+        "title":"Travelling to Kerala",
+        "excerpt":"Kerala is located on south side of India...",
+        "content":"Kerala is a good place to travel specially during rainy season. Kerala is located on south side of India. It is very clean and green. You should visit once in your life.",
+        "date": "2024-07-24",
+        "images": ["/kerala.jpg"]
+    },
+    {
+        "id":11,
+        "title":"Travelling to New York",
+        "excerpt":"It is one of the luxurious city of United States of America... ",
+        "content":"New york is very good city to travel. It is very clean and green. It is one of the luxurious city of United States of America. You can get so many outlet of fast food on street of newyork",
+        "date": "2024-07-20",
+        "images": ["/newyork.jpg"]
+    },
+    {
+        "id":12,
+        "title":"Travelling to Goa",
+        "excerpt":"It is located on the west side of India...",
+        "content":"Goa is very good place to travel. It is very clean and green. It is located on the west side of India. There are so many beautiful beaches to explore. Mostly its night light is much needed thing to explore.",
+        "date": "2024-07-21",
+        "images": ["/goa.jpg"]
+    },
+    {
+        "id":13,
+        "title":"Travelling to Delhi",
+        "excerpt":"Delhi is known for its architectural building and bussiness...",
+        "content":"Delhi is very good state to travel. It is very clean and green and it is also capital of India. Delhi is known for its architectural building and bussiness. It is home to many mughal architecture building.",
+        "date": "2024-07-22",
+        "images": ["/delhi.jpg"]
+    },
+    {
+        "id":14,
+        "title":"Travelling to Bangalore",
+        "excerpt":"It is the electronic city of India...",
+        "content":"Bangalore is very good city to travel. It is very clean and green. It is the electronic city of India.Its weather is good. You can get so many outlet of fast food on street of bangalore.",
+        "date": "2024-07-23",
+        "images": ["/bangalore.jpg"]
+    },
+    {
+        "id":15,
+        "title":"Travelling to Kerala",
+        "excerpt":"Kerala is located on south side of India...",
+        "content":"Kerala is a good place to travel specially during rainy season. Kerala is located on south side of India. It is very clean and green. You should visit once in your life.",
+        "date": "2024-07-24",
+        "images": ["/kerala.jpg"]
+    },
+    {
+        "id":16,
+        "title":"Travelling to New York",
+        "excerpt":"It is one of the luxurious city of United States of America... ",
+        "content":"New york is very good city to travel. It is very clean and green. It is one of the luxurious city of United States of America. You can get so many outlet of fast food on street of newyork",
+        "date": "2024-07-20",
+        "images": ["/newyork.jpg"]
+    },
+    {
+        "id":17,
+        "title":"Travelling to Goa",
+        "excerpt":"It is located on the west side of India...",
+        "content":"Goa is very good place to travel. It is very clean and green. It is located on the west side of India. There are so many beautiful beaches to explore. Mostly its night light is much needed thing to explore.",
+        "date": "2024-07-21",
+        "images": ["/goa.jpg"]
+    },
+    {
+        "id":18,
+        "title":"Travelling to Delhi",
+        "excerpt":"Delhi is known for its architectural building and bussiness...",
+        "content":"Delhi is very good state to travel. It is very clean and green and it is also capital of India. Delhi is known for its architectural building and bussiness. It is home to many mughal architecture building.",
+        "date": "2024-07-22",
+        "images": ["/delhi.jpg"]
+    },
+    {
+        "id":19,
+        "title":"Travelling to Bangalore",
+        "excerpt":"It is the electronic city of India...",
+        "content":"Bangalore is very good city to travel. It is very clean and green. It is the electronic city of India.Its weather is good. You can get so many outlet of fast food on street of bangalore.",
+        "date": "2024-07-23",
+        "images": ["/bangalore.jpg"]
+    },
+    {
+        "id":20,
+        "title":"Travelling to Kerala",
+        "excerpt":"Kerala is located on south side of India...",
+        "content":"Kerala is a good place to travel specially during rainy season. Kerala is located on south side of India. It is very clean and green. You should visit once in your life.",
+        "date": "2024-07-24",
+        "images": ["/kerala.jpg"]
+    },
+    {
+        "id":21,
+        "title":"Travelling to New York",
+        "excerpt":"It is one of the luxurious city of United States of America... ",
+        "content":"New york is very good city to travel. It is very clean and green. It is one of the luxurious city of United States of America. You can get so many outlet of fast food on street of newyork",
+        "date": "2024-07-20",
+        "images": ["/newyork.jpg"]
+    },
+    {
+        "id":22,
+        "title":"Travelling to Goa",
+        "excerpt":"It is located on the west side of India...",
+        "content":"Goa is very good place to travel. It is very clean and green. It is located on the west side of India. There are so many beautiful beaches to explore. Mostly its night light is much needed thing to explore.",
+        "date": "2024-07-21",
+        "images": ["/goa.jpg"]
+    },
+    {
+        "id":23,
+        "title":"Travelling to Delhi",
+        "excerpt":"Delhi is known for its architectural building and bussiness...",
+        "content":"Delhi is very good state to travel. It is very clean and green and it is also capital of India. Delhi is known for its architectural building and bussiness. It is home to many mughal architecture building.",
+        "date": "2024-07-22",
+        "images": ["/delhi.jpg"]
+    },
+    {
+        "id":24,
+        "title":"Travelling to Bangalore",
+        "excerpt":"It is the electronic city of India...",
+        "content":"Bangalore is very good city to travel. It is very clean and green. It is the electronic city of India.Its weather is good. You can get so many outlet of fast food on street of bangalore.",
+        "date": "2024-07-23",
+        "images": ["/bangalore.jpg"]
+    },
+    {
+        "id":25,
+        "title":"Travelling to Kerala",
+        "excerpt":"Kerala is located on south side of India...",
+        "content":"Kerala is a good place to travel specially during rainy season. Kerala is located on south side of India. It is very clean and green. You should visit once in your life.",
+        "date": "2024-07-24",
+        "images": ["/kerala.jpg"]
+    },
+    {
+        "id":26,
+        "title":"Travelling to New York",
+        "excerpt":"It is one of the luxurious city of United States of America... ",
+        "content":"New york is very good city to travel. It is very clean and green. It is one of the luxurious city of United States of America. You can get so many outlet of fast food on street of newyork",
+        "date": "2024-07-20",
+        "images": ["/newyork.jpg"]
+    },
+    {
+        "id":27,
+        "title":"Travelling to Goa",
+        "excerpt":"It is located on the west side of India...",
+        "content":"Goa is very good place to travel. It is very clean and green. It is located on the west side of India. There are so many beautiful beaches to explore. Mostly its night light is much needed thing to explore.",
+        "date": "2024-07-21",
+        "images": ["/goa.jpg"]
+    },
+    {
+        "id":28,
+        "title":"Travelling to Delhi",
+        "excerpt":"Delhi is known for its architectural building and bussiness...",
+        "content":"Delhi is very good state to travel. It is very clean and green and it is also capital of India. Delhi is known for its architectural building and bussiness. It is home to many mughal architecture building.",
+        "date": "2024-07-22",
+        "images": ["/delhi.jpg"]
+    },
+    {
+        "id":29,
+        "title":"Travelling to Bangalore",
+        "excerpt":"It is the electronic city of India...",
+        "content":"Bangalore is very good city to travel. It is very clean and green. It is the electronic city of India.Its weather is good. You can get so many outlet of fast food on street of bangalore.",
+        "date": "2024-07-23",
+        "images": ["/bangalore.jpg"]
+    },
+    {
+        "id":30,
+        "title":"Travelling to Kerala",
+        "excerpt":"Kerala is located on south side of India...",
+        "content":"Kerala is a good place to travel specially during rainy season. Kerala is located on south side of India. It is very clean and green. You should visit once in your life.",
+        "date": "2024-07-24",
+        "images": ["/kerala.jpg"]
+    }
+]
+
+
